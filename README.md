@@ -1,5 +1,5 @@
 # Tools-for-Data-Science-G.R.V
-Introductory Sentece
+Introductory Sentence
 ##Python, R, C++
 
 ##Tensorflow, Numpy, Pandas, SciPy
